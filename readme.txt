@@ -1,12 +1,14 @@
-EL SITIO ADMINISTRATIVO DE DJANGO II
-MANIPULANDO Y GESTIONANDO EL PANEL ADMINISTRATIVO DE DJANGO 
+CUE: MEJORES PRÁCTICAS EN DJANGO 
+DRILLING: AGREGANDO FUNCIONALIDADES A NUESTRO PROYECTO 
 evaluacion
-m11
+m12
 
 
 para clonar
-https://github.com/ThDelgado/panel_admin2.git
+https://github.com/ThDelgado/funcionalidad_django.git
 Thelma Delgado
+
+
 
 se agrega LoginRequiredMixin a la vista LibrosView 
 en app Libros
